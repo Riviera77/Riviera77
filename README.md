@@ -1,4 +1,4 @@
-## Hi I*m Ingrid 👋
+## Hi, I'm Ingrid 👋
 
 <!--
 **Riviera77/Riviera77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riviera77)](https://github.com/Riviera77/github-readme-stats)
+![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riviera77&theme=nightowl_icons=true)
