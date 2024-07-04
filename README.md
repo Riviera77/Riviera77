@@ -11,7 +11,7 @@ Fullstack Developer
 
 <br>
 
-# 👩🏽‍💻 About Me
+## 👩🏽‍💻 About Me
 
 <div >
 <a href="#">
@@ -75,9 +75,6 @@ Fullstack Developer
 
 ## <img align="center" src="./img/Contact.gif"  width="30"/> Contact Me
 
-<p> 
- <i>You can reach me via</i> 
 &nbsp;<a href="mailto:grey.zukunft@gmail.com">
-     <img align="center" src="./img/Gmail.gif"  width="100"/>
- </a>
-</p>
+<img align="center" src="./img/Gmail.gif"  width="100"/>
+</a>
