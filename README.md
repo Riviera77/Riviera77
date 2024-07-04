@@ -15,14 +15,14 @@ Fullstack Developer
 
 <div >
 <a href="#">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" width="30px" alt="Portfolio" style="height:22px;">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" width="150px" alt="Portfolio" style="height:30px;">
 </a>
 </div>
 
 <details>
   <summary><h3> <img align="center" src="./img/techstack.gif" width="30px"/> Tech Stack</h3></summary>
 
-    #### Languages
+#### Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
