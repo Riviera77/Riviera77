@@ -13,6 +13,8 @@ Fullstack Developer
 
 ## 👩🏽‍💻 About Me
 
+I'm a developer web and mobil web with a foundation in both frontend and backend. I love to learn about new technologies.
+
 <div >
 <a href="#">
     <img align="center" src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" width="150px" alt="Portfolio" style="height:30px;">
