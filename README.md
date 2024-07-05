@@ -13,7 +13,7 @@ Fullstack Developer
 
 ## 👩🏽‍💻 About Me
 
-I'm a developer web and mobil web with a foundation in both frontend and backend. I love to learn about new technologies.
+I'm a web and mobile web developer with a foundation in both frontend and backend. I love to learn about new technologies.
 
 <div >
 <a href="#">
