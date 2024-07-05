@@ -73,13 +73,14 @@ Fullstack Developer
   </div>
 </details>
 
-<!-- ## <img align="center" src="./img/Contact.gif"  width="30"/> Contact Me
-<a href="mailto:grey.zukunft@gmail.com">
-<img align="center" src="./img/Gmail.gif"  width="100"/>
-</a> -->
+## <img align="center" src="./img/Contact.gif"  width="30"/> Contact Me
 
 <a href="mailto:grey.zukunft@gmail.com">
+<img align="center" src="./img/Gmail.gif"  width="100"/>
+</a>
+
+<!-- <a href="mailto:grey.zukunft@gmail.com">
 
 ## <img align="center" src="./img/Contact.gif"  width="30"/> <img align="center" src="./img/Gmail.gif"  width="100"/>
 
-</a>
+</a> -->
