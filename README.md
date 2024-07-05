@@ -73,10 +73,14 @@ Fullstack Developer
   </div>
 </details>
 
-<div style="display: flex; flex-direction: row; justify-content: start; align-items: center; ">
-  <img align="center" src="./img/Contact.gif"  width="30" style="padding-right: 10px;"/>
-  <h2 style="padding-right: 15px;"> Contact Me</h2>
+<!-- <div style="display: flex; flex-direction: row; justify-content: start; align-items: center; ">
+  <img align="center" src="./img/Contact.gif"  width="30" />
+  <h2 style="padding-right: 10px;"> Contact Me</h2>
   <a href="mailto:grey.zukunft@gmail.com">
     <img align="center" src="./img/Gmail.gif"  width="100"/>
   </a>
-</div>
+</div> -->
+
+<h2>You can reach me via <a href="mailto:grey.zukunft@gmail.com">
+    <img align="center" src="./img/Gmail.gif"  width="100"/>
+  </a></h2>
